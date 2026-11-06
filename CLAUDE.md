@@ -78,8 +78,8 @@ style: fix spacing on mobile job list
 ### Pull Requests
 
 - PR title should match the commit message format
-- Include a summary and test plan in the PR description
-- Target `master` as the base branch
+- Include a summary and test plan in the PR description unless asked not to
+- Target `master` as the base branch always
 
 ## Coding Standards
 
